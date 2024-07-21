@@ -1,0 +1,14 @@
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Hangman Game\Hangman\bin\Debug\net8.0\Hangman.exe
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Hangman Game\Hangman\bin\Debug\net8.0\Hangman.deps.json
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Hangman Game\Hangman\bin\Debug\net8.0\Hangman.runtimeconfig.json
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Hangman Game\Hangman\bin\Debug\net8.0\Hangman.dll
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Hangman Game\Hangman\bin\Debug\net8.0\Hangman.pdb
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Hangman Game\Hangman\obj\Debug\net8.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Hangman Game\Hangman\obj\Debug\net8.0\Hangman.AssemblyInfoInputs.cache
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Hangman Game\Hangman\obj\Debug\net8.0\Hangman.AssemblyInfo.cs
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Hangman Game\Hangman\obj\Debug\net8.0\Hangman.csproj.CoreCompileInputs.cache
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Hangman Game\Hangman\obj\Debug\net8.0\Hangman.dll
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Hangman Game\Hangman\obj\Debug\net8.0\refint\Hangman.dll
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Hangman Game\Hangman\obj\Debug\net8.0\Hangman.pdb
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Hangman Game\Hangman\obj\Debug\net8.0\Hangman.genruntimeconfig.cache
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Hangman Game\Hangman\obj\Debug\net8.0\ref\Hangman.dll
